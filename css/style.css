@@ -197,7 +197,7 @@ body {
 }
 .team__inner {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   padding-top: 127px;
 }
 .team__item {
@@ -233,6 +233,73 @@ margin-bottom: 21px;
 .team__icon-box a:hover {
   color: #949494
 }
+
+.provide {
+  background-color: #181818;
+  padding-bottom: 155px;
+}
+.block__head {
+}
+
+.inverse {
+  
+}
+
+.inverse .block_title {
+  padding-top: 176px;
+  color: #fff;
+}
+
+.inverse .block__text {
+  color: #383838;
+}
+.provide__inner {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 138px;
+}
+.provide__item  {
+  text-align: center;
+  max-width: 335px;
+}
+
+.provide__item i {
+  color: #fff;
+  border: 6px solid #fff;
+  font-size: 63px;
+  height: 172px;
+  width: 172px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 43px;
+  
+}
+.icon-chart-line {
+}
+.provide__item-title {
+  color: #fff;
+  font-family: "HelveticaNeueLTProLt";
+  font-size: 26px;
+  line-height: 26px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  margin-bottom: 31px;
+}
+.provide__item-text {
+  color: #383838;
+  font-family: "HelveticaNeueLTProLt";
+  font-size: 18px;
+  line-height: 23px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+.icon-heart {
+}
+.icon-upload-cloud-outline {
+}
+
 
 
 
