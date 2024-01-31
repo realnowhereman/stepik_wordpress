@@ -300,6 +300,124 @@ margin-bottom: 21px;
 .icon-upload-cloud-outline {
 }
 
+.contact {
+
+}
+.contact .block__head .block__title {
+  padding-top: 95px;
+}
+.block__title {
+
+}
+.block__text {
+
+}
+.contact__inner {
+
+}
+.contact__icon-box {
+  display: flex;
+  justify-content: space-between;
+  max-width: 570px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.contact__item {
+  width: 130px;
+  text-align: center;
+}
+.contact__item i {
+  color:#323232;
+  font-size: 21px;
+}
+.contact__text {
+  margin-bottom: 12px;
+}
+.contact__text a {
+  font-family: "HelveticaNeueLTProLt";
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: #898888;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.contact__text a:hover {
+  color: #4b4b4b;
+  text-decoration: underline;
+}
+.contact__form {
+  padding-top: 153px;
+  display: flex;
+  flex-direction: column;
+ 
+  max-width: 770px;
+  margin: 0 auto;
+}
+.contact__form input {
+  text-align: center;
+  height: 52px;
+  padding: 20px;
+  font-family: "HelveticaNeueLTProLt";
+  font-size: 15px;
+  line-height: 26px;
+  font-weight: 400;
+  color:#898888;
+  border: solid 1px #999;
+}
+.contact__name {
+  margin-bottom: 20px;
+  
+}
+.contact__email {
+  margin-bottom: 20px;
+  
+}
+.contact__number {
+  margin-bottom: 18px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+.contact__textarea {
+  padding: 22px;
+  margin-bottom: 21px;
+  height: 195px;
+  resize: none;
+  font-family: "HelveticaNeueLTProLt";
+  font-size: 15px;
+  line-height: 26px;
+  
+}
+.contact__form .contact__button {
+  background-color: #161616;
+  font-family: "HelveticaNeueLTProLt";
+  font-size: 17px;
+  /* line-height: 26px; */
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color:#fefefe;
+  border: none;
+  outline: none;
+  padding: 0;
+  cursor: pointer;
+  
+}
+.footer {
+  padding-top: 154px;
+}
+.footer__text {
+  text-align: center;
+  font-family: "HelveticaNeueLTProLt";
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color:#3b3b3b;
+}
+
+
 
 
 
